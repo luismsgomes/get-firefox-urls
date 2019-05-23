@@ -28,7 +28,7 @@ setup(
     version=get_version('get_firefox_urls.py'),
     description='Utility to print the URLs currently open in Firefox.',
     long_description=read('README.rst'),
-    url='https://github.com/luismsgomes/get_firefox_urls',
+    url='https://github.com/luismsgomes/get-firefox-urls',
     author='Luís Gomes',
     author_email='luismsgomes@gmail.com',
     license='MIT',

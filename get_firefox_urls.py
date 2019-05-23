@@ -4,7 +4,7 @@ import sys
 
 import lz4.block
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 
 
 def get_firefox_urls(mozziladir="~/.mozilla"):
